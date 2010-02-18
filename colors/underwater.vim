@@ -1,5 +1,5 @@
 " Maintainer: Dmitry Kichenko (dmitrykichenko@gmail.com)
-" Last Change:	February 17, 2009
+" Last Change:	February 18, 2009
 
 set background=dark
 
@@ -14,7 +14,7 @@ let colors_name = "underwater"
 " Vim >= 7.0 specific colors
 if version >= 700
   " highlights current line
-  hi CursorLine guibg=#1E415E
+  hi CursorLine guibg=#18374F
   " cursor's colour
   hi CursorColumn guibg=#ffffff
   hi MatchParen guifg=#ffffff guibg=#439ea9 gui=bold
@@ -27,7 +27,7 @@ if version >= 700
 endif
 
 " General colors
-hi Cursor 		guifg=NONE    guibg=#4FADA2 gui=none
+hi Cursor 		guifg=NONE    guibg=#55A096 gui=none
 hi Normal 		guifg=#dfeff6 guibg=#102235 gui=none
  " e.g. tildes at the end of file
 hi NonText 		guifg=#96defa guibg=#122538 gui=none
