@@ -1,5 +1,5 @@
 " Maintainer: Dmitry Kichenko (dmitrykichenko@gmail.com)
-" Last Change:	February 18, 2009
+" Last Change:	February 20, 2009
 
 set background=dark
 
@@ -61,6 +61,6 @@ hi Keyword		guifg=#8ac6f2 gui=none
  "  specified preprocessed words (like bold, italic etc. above)
 hi PreProc 		guifg=#EF6145 gui=none
 hi Number		guifg=#96defa gui=none
-hi Special		guifg=#DFEFF6 gui=none
+hi Special		guifg=#3e71a1 gui=none
 
 
